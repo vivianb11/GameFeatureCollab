@@ -18,6 +18,18 @@
 		{
 			"Name": "GameFeatureVivianBoudon",
 			"Enabled": true
+		},
+		{
+			"Name": "GameFeature_AlexandreChahinian",
+			"Enabled": true
+		},
+		{
+			"Name": "GameFeatureManager",
+			"Enabled": true
+		},
+		{
+			"Name": "Interaction",
+			"Enabled": true
 		}
 	]
 }

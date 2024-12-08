@@ -21,6 +21,10 @@
 		{
 			"Name": "GameFeatureVivianBoudon",
 			"Enabled": true
+		},
+		{
+			"Name": "GameFeature_AlexandreChahinian",
+			"Enabled": true
 		}
 	]
 }
