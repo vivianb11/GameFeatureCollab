@@ -3,7 +3,7 @@
 	"Version": 1,
 	"VersionName": "1.0",
 	"FriendlyName": "GameFeatureManager",
-	"Description": "",
+	"Description": "Manage Both Vivian & Pichon Guns",
 	"Category": "Game Features",
 	"CreatedBy": "Vivian Boudon",
 	"CreatedByURL": "",
