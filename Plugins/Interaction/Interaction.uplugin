@@ -5,12 +5,14 @@
 	"FriendlyName": "Interaction",
 	"Description": "",
 	"Category": "Other",
-	"CreatedBy": "",
+	"CreatedBy": "Vivian Boudon",
 	"CreatedByURL": "",
 	"DocsURL": "",
 	"MarketplaceURL": "",
 	"SupportURL": "",
 	"EngineVersion": "5.4.0",
 	"CanContainContent": true,
-	"Installed": true
+	"Installed": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false
 }
